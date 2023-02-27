@@ -3,4 +3,4 @@
 - 💻 Programador
 - 📚 Estudando Java
 
-[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Mateusdacruz)](https://github.com/anuraghazra/github-readme-stats)
+[![MateusDaCruz](https://github-readme-stats.vercel.app/api?username=MateusDaCruz)](https://github.com/anuraghazra/github-readme-stats)
